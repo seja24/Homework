@@ -1,0 +1,10 @@
+ .container {
+     display: block;
+     margin: 0 auto;
+     padding: 15px;
+     background: linear-gradient(-225deg, #5d9fff 0%, #b8dcff 48%, #6bbbff 100%);
+ }
+
+ .card-body {
+     background: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+ }
